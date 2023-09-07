@@ -1,2 +1,6 @@
 https://medium.com/@atef.ataya/map-reduce-building-summarization-apps-with-langchain-and-openai-57c05788c7eb 
 https://github.com/sophiamyang/tutorials-LangChain/blob/main/LangChain_QA.ipynb
+
+
+
+map_rerank : https://api.python.langchain.com/en/latest/chains/langchain.chains.combine_documents.map_rerank.MapRerankDocumentsChain.html
