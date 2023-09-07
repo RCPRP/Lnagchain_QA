@@ -1,0 +1,2 @@
+https://medium.com/@atef.ataya/map-reduce-building-summarization-apps-with-langchain-and-openai-57c05788c7eb 
+https://github.com/sophiamyang/tutorials-LangChain/blob/main/LangChain_QA.ipynb
