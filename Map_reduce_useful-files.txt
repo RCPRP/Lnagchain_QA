@@ -4,3 +4,6 @@ https://github.com/sophiamyang/tutorials-LangChain/blob/main/LangChain_QA.ipynb
 
 
 map_rerank : https://api.python.langchain.com/en/latest/chains/langchain.chains.combine_documents.map_rerank.MapRerankDocumentsChain.html
+
+
+Detailed ytube link : https://www.youtube.com/watch?v=OTL4CvDFlro
